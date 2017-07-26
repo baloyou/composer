@@ -6,6 +6,7 @@
             "email": "77755345@qq.com"
         }
     ],
+    "description":"这是一个用于测试的包，没有任何实际意义。",
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
